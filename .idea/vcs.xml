@@ -2,6 +2,74 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ASCII Value" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Adding Matrices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Amstrong number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calender" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Change in your TXT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Check your IP address" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Disarium number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Discuss" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Dragon Wolf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factorial of Number" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/File Size" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Find Hash" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Hovercraft" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ignore odd numbers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Implementation of ElGamal" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Letter counter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/List Comprehension" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/List Operator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Matrix transpose" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palindrome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Password Validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Password generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pattern 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Phone Number Validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Pig Latin Translator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python Heart" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Python Program to Differentiate Between type() and isinstance()" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Random Image" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Representing enum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQUAREROOT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Secret algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Secure your Password" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Shortpath" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sieve of Eratosthenes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Sorted with Keys" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Square Root" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Tower of Hanoi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unity Drone Sim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unity Drone Sim/UnityDroneSim" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Using datetime module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Your name" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/abstract classes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/calender display" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/cloning a list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/coin for change" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/countdown timer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/current date and time" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/extracting Url" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/extracting a file" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/generate otp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gnome sort" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/half pyramid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/image resolution" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/inverted star" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/long_audio_recognizer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mocking string class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/monotomic check" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/no. of stopping station prob" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/number of times everyday occurs in a year" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python copyright information" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/random selector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/reading large audio files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/recursion call limit/recursion call limit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shuffle decks of cards" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/slicing list" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/solving quadratic equation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text to speech" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/venv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/word count" vcs="Git" />
   </component>
 </project>
